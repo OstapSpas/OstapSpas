@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ostap</h1>
-<h3 align="center">I am a Front End Developer with 3 years of commercial experience in JavaScript, HTML/CSS, SQL, React, Node JS I am a hardworking team player with strong problem-solving skills, always eager to learn and contribute to innovative projects.</h3>
+<h3 align="center">I am a Front End Developer  experience in JavaScript, HTML/CSS, SQL, React, Node JS I am a hardworking team player with strong problem-solving skills, always eager to learn and contribute to innovative projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
