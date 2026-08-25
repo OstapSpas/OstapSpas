@@ -1,16 +1,14 @@
 <h1 align="center">Hi, I'm Ostap Spas 👋</h1>
 
 <h3 align="center">
-Full-Stack Developer focused on building clean, responsive and maintainable web applications.
+Front-End Developer (React) — building clean, responsive web apps.
 </h3>
 
 ---
 
 ## About Me
 
-I am a Full-Stack Developer with hands-on experience in building responsive web applications using React, Next.js, Node.js, Express, PostgreSQL and JavaScript.
-
-I have experience working with frontend interfaces, reusable components, REST APIs, authentication logic, database-driven features and clean code structure. I focus on practical solutions, product logic and writing code that is easy to maintain and improve.
+I'm a Front-End Developer working mainly with React, Next.js and JavaScript. I build responsive web apps — reusable components, clean state and routing, and code that stays maintainable. I've also worked on the backend side (Node.js, Express, PostgreSQL, REST APIs, auth), so I'm comfortable connecting a front-end to real data.
 
 - 🎓 Studying Intelligent Systems at Technical University of Košice
 - 💻 Commercial experience as a Front-End Developer at Coddu
